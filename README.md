@@ -30,7 +30,7 @@ Google Fonts (Inter): Consistent typography.
 
 Installation
 
-Clone the repository:git clone https://github.com/your-username/Webstore.git
+Clone the repository:git clone https://github.com/RayanPinto/Webstore.git
 cd Webstore
 
 
